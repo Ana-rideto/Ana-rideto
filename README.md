@@ -1,55 +1,47 @@
-## Hi and wellcome, I am Daniel 👋
-Middle iOS developer
+## Hi and wellcome, I am Ana 👋
+Junior iOS developer
 
-Reach me out at daniel.pustotin@gmail.com
-### Find me anywhere [@heartsker](https://t.me/heartsker):
+Reach me out at gaikaspb7@gmail.com
+### Find me anywhere [@ana_rideto](https://t.me/ana_rideto):
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/heartsker)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heartsker/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/heartsker/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=yellow)](https://codeforces.com/profile/heartsker)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_5MUv10YXho4snIkQH0rnQ)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heartsker)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ana.rideto/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Ana_rideto/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ana_rideto)
 
-### I am happy to see you here!
-![](https://visitor-badge.glitch.me/badge?page_id=heartsker.heartsker&left_color=red&right_color=black)
+### I am glad to see you here!
+![](https://visitor-badge.glitch.me/badge?page_id=Ana-rideto.Ana-rideto&left_color=red&right_color=black)
 
 ## Profile
 
-I am a bachelor student in Computer Science in Higher School of Economics University at Applied Mathematics and Information Science [program](https://www.hse.ru/en/ba/ami/)
+I am a passionate beginner coder, looking for opportunities to prove myself in interesting projects 🧩
 
 ### My Absolute Favorites:
-Love solving algorithmic problems, building software architectures and coffee ☕️
+Love solving algorithmic problems, learn from the bests and sweets 🍩
 
-Joined Github 3 years ago
+Joined Github {{ ACCOUNT_AGE }} years ago
 
-Since then I pushed 855+ commits, submitted 127+ pull requests and contributed to 13+ public repositories
+Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
 
-🌇 See my github skyline for [**2021**](https://skyline.github.com/heartsker/2021) and [**2022**](https://skyline.github.com/heartsker/2022)
+🌇 See my github skyline for [**2022**](https://skyline.github.com/Ana-rideto/2021) and (https://skyline.github.com/Ana-rideto/2022)
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/heartsker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heartsker/heartsker/main/resourses/capoo_coffee.gif" />
+<img align="right" height="190" width="325" alt="" src="https://raw.githubusercontent.com/Ana-rideto/Ana-rideto/main/resourses/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
-* Creative, responsible and [possimpible](https://youtu.be/GuLcxg5VGuo)
+* Mindful, responsible and initiative
 * Excellent troubleshooting skills
-* Fundamental knowledge in Math, Computer Science and software design
-* Experience QA testing, improving software perfomance
-* ICPC semifinalist - checkout my [LeetCode page](https://leetcode.com/heartsker/)
-* Basic knowledge in UX design and promotion
+* Basic knowledge in Computer science and UX design
+* Ready to work hard 🦾
+
+
 
 ### Current status
 
-- 🍎 &nbsp; I’m currently work at [Yandex](https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4) on position of middle **iOS developer**
-- 🚀 &nbsp; I’m currently learning Full Stack Development
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
-- 😈 &nbsp; I am a huge fan of classical citcoms
-- 📫 &nbsp; How to reach me: daniel.pustotin@gmail.com
-- 📝 &nbsp; Checkout my [CV](https://heartsker.github.io/CV)
+- 🚀 &nbsp; I’m currently improving my Swift skills
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ana-rideto?tab=repositories).
+- ⛷ &nbsp; Activities is my life
+- 📫 &nbsp; How to reach me: gaikaspb7@gmail.com
+- 📝 &nbsp; Checkout my [CV]()
 
 ### Languages and Tools:
 
@@ -58,10 +50,6 @@ Like My Work?
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
@@ -71,25 +59,23 @@ Like My Work?
 <details>
   <summary><b>⚡️ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heartsker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartsker&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-rideto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-rideto&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>🚀 Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heartsker&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ana-rideto&hide_border=true" />
 </details>
 
 <details>
-  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heartsker/heartsker/main/resourses/capoo_strong.gif"/>
   <br/>
   <summary><b>🛠 Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 12.3</li>
-	    <li><b>Laptop: </b> MacBookPro 16" 2021 M1Pro</li>
-	    <li><b>Terminal: </b>Oh My Zsh</li>
+  	    <li><b>OS:</b> MacOS Monterey 12.5</li>
+	    <li><b>Laptop: </b> MacBookPro 16" 2015 Intel Core i7</li>
 	    <li><b>Code Editor:</b>
         <ul>
           <li>VSCode - The best editor out there</li>
@@ -100,7 +86,5 @@ Like My Work?
 </details>
 
 <div align="center">
-
-### If you appreciate my work, show some ❤️ by starring some of the repositories!
 
 </div>
