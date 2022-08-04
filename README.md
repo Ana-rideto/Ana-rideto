@@ -22,7 +22,7 @@ Joined Github {{ ACCOUNT_AGE }} years ago
 
 Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
 
-🌇 See my github skyline for [**2022**](https://skyline.github.com/Ana-rideto/2021) and (https://skyline.github.com/Ana-rideto/2022)
+🌇 See my github skyline for [**2022**](https://skyline.github.com/Ana-rideto/2022)
 
 <img align="right" height="190" width="325" alt="" src="https://raw.githubusercontent.com/Ana-rideto/Ana-rideto/main/resourses/giphy.gif" />
 
