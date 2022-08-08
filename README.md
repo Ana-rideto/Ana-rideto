@@ -18,10 +18,6 @@ I am a passionate beginner coder, looking for opportunities to prove myself in i
 ### My Absolute Favorites:
 Love solving algorithmic problems, learn from the bests and sweets 🍩
 
-Joined Github {{ ACCOUNT_AGE }} years ago
-
-Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull requests and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories
-
 🌇 See my github skyline for [**2022**](https://skyline.github.com/Ana-rideto/2022)
 
 <img align="right" height="190" width="325" alt="" src="https://raw.githubusercontent.com/Ana-rideto/Ana-rideto/main/resourses/giphy.gif" />
@@ -41,7 +37,7 @@ Since then I pushed {{ COMMITS }}+ commits, submitted {{ PULL_REQUESTS }}+ pull 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ana-rideto?tab=repositories).
 - ⛷ &nbsp; Activities is my life
 - 📫 &nbsp; How to reach me: gaikaspb7@gmail.com
-- 📝 &nbsp; Checkout my [CV]()
+- 📝 &nbsp; Checkout my [CV](https://ana-rideto.github.io/CV/)
 
 ### Languages and Tools:
 
